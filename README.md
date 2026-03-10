@@ -9,7 +9,7 @@ Features:
 - Delete Student 
 - Search Student 
 - File Storage 
-=======
+
 # Student Management System (Java)
 
 A console-based Java application to manage student records.
@@ -30,5 +30,6 @@ A console-based Java application to manage student records.
 
 ## How to Run
 javac *.java
+
 java StudentManagementSystem
 
